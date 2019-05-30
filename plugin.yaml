@@ -3,4 +3,4 @@ plugins:
     executor: central_deployment_agent
     package_name: wk
     package_version: "1.0"
-    source: /
+    source: https://github.com/nyakovlev/test_cfy_pg/archive/master.zip
