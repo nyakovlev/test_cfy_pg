@@ -1,0 +1,6 @@
+plugins:
+  libvirt:
+    executor: central_deployment_agent
+    package_name: wk
+    package_version: "1.0"
+    source: /
